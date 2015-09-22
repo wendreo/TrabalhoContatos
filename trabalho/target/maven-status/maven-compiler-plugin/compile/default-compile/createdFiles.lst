@@ -1,0 +1,5 @@
+contatos\servlets\DelContatoServlet.class
+contatos\servlets\AddUsuarioServlet.class
+contatos\servlets\AddContatoServlet.class
+contatos\servlets\Mensagens.class
+contatos\servlets\LoginServlet.class
